@@ -1,0 +1,6 @@
+# O gerador fica só na sua máquina: ele copia o código-fonte real do front-end.
+# No GitHub vão apenas o README, as imagens e o build compilado em docs/.
+gerador/
+node_modules/
+.env*
+*.map
